@@ -19,30 +19,38 @@ Same pairs of the previous day.
 
 ## Brief
 
-### Exercise #1
+### Exercise #1 (30 mins)
 
-Extend your music app to have some navigation
+Implementing navigation features in your music app.
 
-Requirements are:
+**Requirements:**
+1. Utilise react-router-dom's `Routes`, `Route`, and `NavLink` components to create at least 3 routes (one of them can be "/").
+2. Employ react-router-dom's `useNavigate` hook in one component to implement a 'Back' button.
+3. Implement nested routes for enhanced navigation.
 
-- Use `react-router-dom`'s `Routes`, `Route` and `NavLink` &/or `Link` components to give it at least 3 routes (one of them can be "/")
-- Use `react-router-dom`'s `useNavigate` hook to one of your components and implement a 'Back' button
-- Add nested routes
+**User Stories:**
+- User can view images of the chosen music artist.
+- User can see a list of all featured songs/albums of the music artist.
+- User can mark favorite songs/albums.
+- User can access a contact section with the provided email.
 
-### Exercise #2
+### Exercise #2 (1 hour)
 
-Use React Router to build an app that lets users view colours and add new colours
+Build a color management app using React Router.
 
-#### User Stories
+**Requirements:**
+1. Create a route `/colors` to display a list of all available colours.
+2. Implement a route `/colors/:color` to display a specific colour in detail.
+3. Include a route `/colors/new` to enable users to add new colours via a form.
+4. Upon submitting the form, users should be redirected to the colours index, with the new colour appearing at the top.
+5. Implement redirection to the colours index page if the user navigates to a non-existing colour page (`/colors/:invalidColor`) or an invalid URL.
+6. Ensure the app has a visually appealing design.
 
-- As a user, I can go to /colours to see a list of all available colours
-- As a user, I can click on one of the colours in my colours list and get taken to a page where I can see that colour in all its glory. (The route here should be `/colours/:colour`)
-- As a user, I can click on a button to show a form that will let me add a new colour. (The route here should be `/colours/new`)
-- As a user, when I submit my new colour form, I am redirected to the colours index, and my new colour appears at the top
-- As a user, if I try to navigate to a colour page that does not exist (e.g. `/colours/burrito`), I am redirected to the colours index page
-- As a user, if I try to navigate to an invalid url (e.g. `/this-is-not-valid`), I am redirected to the colours index page
-- Your app should have some styling
-
+**User Stories:**
+- User can view a list of available colours.
+- User can click on a colour to view it in detail.
+- User can add new colours
+  
 ## Output
 
 ### Exercise #1
