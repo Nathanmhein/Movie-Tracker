@@ -10,10 +10,11 @@ To access a module, click on its corresponding link.
 
 | Module | Folder |
 | --- | --- |
-| UX Design | [Link](./ux-design) |
-| Agile | [Link](./agile) |
-| HTML & CSS | [Link](./html-css) |
-| Bootstrap | [Link](./bootstrap) |
-| Version Control | [Link](./version-control) |
-| Front-end Development | [Link](./front-end-development) |
-| Front-end Testing | [Link](./front-end-testing) |
+| Intro to React | [Link](./intro-to-react/) |
+| React Props | [Link](./react-props/) |
+| React useEffect | [Link](./react-useEffect/) |
+| React Navigation | [Link](./react-navigation/) |
+| React useContext | [Link](./react-useContext/) |
+| Redux | [Link](./redux/) |
+| React end to end project | [Link](./react-end-to-end/) |
+| React testing | [Link](./react-testing/) |
