@@ -1,9 +1,6 @@
 import TodoItem from "../TodoItem";
-import { useSelector } from 'react-redux'
 
-function TodoList() {
-	const filteredTodos = useSelector(state => state.todosReducer.filteredTodos);
-
+function TodoList({ filteredTodos }) {
 	return (
 		<div className="todo-container">
 			<ul className="todo-list">

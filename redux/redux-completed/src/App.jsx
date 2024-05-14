@@ -1,24 +1,35 @@
 import React, {useState, useEffect} from 'react';
 import './App.css';
 import { TodoForm, TodoList } from './components';
-import {useSelector, useDispatch} from 'react-redux'
+import {useSelector} from 'react-redux'
 import {actionCreators} from './action-creators';
 import {bindActionCreators} from 'redux';
 
 function App() {
-  const dispatch = useDispatch();
-  const {filterTodos} = bindActionCreators(actionCreators, dispatch);
-  const data = useSelector(state => state.todosReducer);
+  const todos = useSelector(state => state.todos)
+  const [inputText, setInputText] = useState('');
+  const [status, setStatus] = useState('all');
+  const [filteredTodos, setFilteredTodos] = useState([]);
   
   useEffect(() => {
-    filterTodos()
-  }, [data.status, data.todos])
+    filterHandler()
+  }, [status, todos])
+
+  function filterHandler() {
+    if(status === 'completed') {
+      setFilteredTodos(todos.filter(todo => todo.completed === true))
+    } else if (status === 'uncompleted') {
+      setFilteredTodos(todos.filter(todo => todo.completed === false))
+    } else {
+      setFilteredTodos(todos);
+    }
+  }
   
   return (
     <div>
       <header>Sarah's Todo List</header>
-      <TodoForm />
-      <TodoList />
+      <TodoForm inputText={inputText} setInputText={setInputText} setStatus={setStatus} />
+      <TodoList filteredTodos={filteredTodos} />
     </div>
   );
 }
