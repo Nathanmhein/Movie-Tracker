@@ -13,4 +13,4 @@ To access a resource, click on its corresponding link.
 | Redux - starter code| [Link](./redux-starter/) |
 | Redux - completed code| [Link](./redux-completed/) |
 | Redux toolkit - completed code| [Link](./redux-toolkit-completed/) |
-| Redux - exercises| [Link](./redux-exercises/) |
+| Redux practice| [Link](./redux-practice/) |

@@ -2,8 +2,6 @@ import React, {useState, useEffect} from 'react';
 import './App.css';
 import { TodoForm, TodoList } from './components';
 import {useSelector} from 'react-redux'
-import {actionCreators} from './action-creators';
-import {bindActionCreators} from 'redux';
 
 function App() {
   const todos = useSelector(state => state.todos)
