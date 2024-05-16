@@ -1,8 +1,6 @@
+import todosReducer from "./reducers/todosReducer";
 import { configureStore } from '@reduxjs/toolkit'
-import allReducers from './reducers'
 
-const store = configureStore({
-    reducer: allReducers,
-})
+const store = configureStore({reducer: todosReducer});
 
 export default store;

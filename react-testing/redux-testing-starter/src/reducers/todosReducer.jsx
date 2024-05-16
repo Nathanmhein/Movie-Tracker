@@ -1,51 +1,35 @@
 import { createSlice } from '@reduxjs/toolkit'
 
 const initialState = {
-    todos: [], 
-    filteredTodos: [], 
-    status: 'all', 
-    inputText: ''
+    todos: []
 }
 
 const todoSlice = createSlice({
+    // A name 
     name: 'todos',
-    initialState: initialState,
+    // The initial state for the reducer 
+    initialState: initialState, 
+    // An object of "case reducers". Key names will be used to generate actions.
     reducers: {
-      addTodos: (state, action) => {
-        state.todos.push({text: action.payload, completed: false})
-      },
-      deleteTodos: (state, action) => {
-        state.todos = state.todos.filter((item) => item.text !== action.payload.text)
-      },
-      completeTodos: (state, action) => {
-        state.todos = state.todos.map((item) => {
-            if(item.text === action.payload.text) {
-                return {
-                    ...item, completed: !item.completed
+        // All case reducers 
+        addTodo: (state, action) => {
+            state.todos.push({text: action.payload, completed: false})
+        },
+        deleteTodo: (state, action) => {
+            state.todos = state.todos.filter((item) => item.text !== action.payload.text)
+        },
+        completeTodo: (state, action) => {
+            state.todos = state.todos.map((item) => {
+                if(item.text === action.payload.text) {
+                    return {
+                        ...item, completed: !item.completed
+                    }
                 }
-            }
-            return item;
-        })
-      },
-      filterTodos: (state) => {
-        state.filteredTodos = state.todos.filter((todo) => {
-            if (state.status === 'completed') {
-                return todo.completed === true
-            } else if (state.status === 'uncompleted') {
-                return todo.completed === false
-            } else {
-                return state.todos
-            }
-        })
-      },
-      toggleStatus: (state, action) => {
-        state.status = action.payload
-      },
-      setInput: (state, action) => {
-        state.inputText = action.payload
-      }
+                return item;
+            })
+        }
     }
 })
 
-export const { addTodos, deleteTodos, completeTodos, filterTodos, toggleStatus, setInput } = todoSlice.actions;
+export const { addTodo, deleteTodo, completeTodo } = todoSlice.actions;
 export default todoSlice.reducer;
