@@ -6,7 +6,7 @@ A practice of React Testing
 
 ### Duration
 
-2 hours.
+2 hours
 
 ### Team
 

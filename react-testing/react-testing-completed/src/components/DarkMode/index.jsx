@@ -1,4 +1,3 @@
-import React, {useContext} from 'react';
 import {useDarkMode} from '../../context/DarkMode';
 
 const DarkMode = () => {

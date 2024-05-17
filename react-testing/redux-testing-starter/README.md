@@ -1,11 +1,3 @@
-# React useEffect (completed)
+# Redux testing (starter)
 
-Some example React code to help teach people the React useEffect hook
-
-## Using this repo
-
-- `git clone`
-- `npm install`
-- `npm run dev`
-
-This repo contains the complete code for the React useEffect lecture
+This repo contains the starter code for the Redux Testing lecture

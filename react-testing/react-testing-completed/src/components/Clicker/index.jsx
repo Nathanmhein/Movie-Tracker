@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 const Clicker = () => {
     const [clickerValue, setClickerValue] = useState(0);
