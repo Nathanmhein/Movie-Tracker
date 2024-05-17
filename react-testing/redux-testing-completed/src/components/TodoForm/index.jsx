@@ -1,22 +1,29 @@
-import {useSelector, useDispatch} from 'react-redux'
-import {addTodos, toggleStatus, setInput} from '../../reducers/todosReducer';
+import {useDispatch} from 'react-redux';
+import { addTodo } from '../../reducers/todosReducer';
 
-function TodoForm() {
+function TodoForm({ inputText, setInputText, setStatus }) {
   const dispatch = useDispatch();
-  const inputText = useSelector(state => state.todosReducer.inputText)
+
+  function handleInput(e) {
+    setInputText(e.target.value);
+  }
 
   function handleSubmit(e) {
     e.preventDefault();
-    dispatch(addTodos(inputText))
-    dispatch(setInput(''))
+    dispatch(addTodo(inputText))
+    setInputText('')
+  }
+    
+  function handleStatus(e) {
+    setStatus(e.target.value)
   }
 
   return (
     <form onSubmit={handleSubmit}>
-      <input role="input" value={inputText} type="text" className="todo-input" onChange={(e) => dispatch(setInput(e.target.value))} />
+      <input value={inputText} type="text" className="todo-input" onChange={handleInput} />
       <button type="submit" className="todo-button">Add</button>
       <div className="select">
-        <select role="select" onChange={(e) => dispatch(toggleStatus(e.target.value))} name="todos" className="filter-todo">
+        <select onChange={handleStatus} name="todos" className="filter-todo">
           <option value="all">All</option>
           <option value="completed">Completed</option>
           <option value="uncompleted">Uncompleted</option>
