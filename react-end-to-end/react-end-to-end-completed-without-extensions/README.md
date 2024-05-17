@@ -1,15 +1,9 @@
-# React End to End project
+# React End to End project (completed without extensions)
 
-This is the completed version of the React end to end project trainers will build with their students. 
+This is the fully completed version of the React end to end project without the extensions of the exercises.
 
-**IMPORTANT NOTE** - please note that this is the version you will have completed with the students during the workshop. It **DOESN'T** include the filtering functionality, as this will be a task for students. Direct your students to this branch if they haven't been able to follow along the workshop, so they can work from this base to add extensions.
+**IMPORTANT NOTE** - please note that this version **DOESN'T** include the filtering functionality and the new component structure, as this will be your tasks for the exercises. Use this code if you haven't been able to follow along the workshop, so you can work from this base to add extensions.
 
-If you would like to see the fully finished version with the extensions, please go to the `react-end-to-end-project-completed` branch of this repo. 
+If you would like to see the fully finished version with the extensions, please head to the following [folder](../react-end-to-end-completed/)
 
-## Using this repo
 
-- `git clone`
-- `npm install`
-- `npm run dev`
-
-This repo contains the complete code for the React End to End project

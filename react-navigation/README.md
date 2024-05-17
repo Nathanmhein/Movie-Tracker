@@ -1,6 +1,6 @@
 # React Navigation
 
-This folder contains resources (including exemplars, instructions, and starter code) for the **IReact Navigation** module.
+This folder contains resources (including exemplars, instructions, and starter code) for the **React Navigation** module.
 
 ## Resources
 
