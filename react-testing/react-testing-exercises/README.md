@@ -6,7 +6,12 @@ A practice of React Testing
 
 ### Duration
 
-2 hours
+Two exercises:
+
+- Exercise #1: 1h
+- Exercise #2: 1h
+
+Note that times are approximate and you can decide how much time you spend on each exercise
 
 ### Team
 
