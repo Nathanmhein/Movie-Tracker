@@ -16,7 +16,7 @@ Pairs of students
 
 ## Brief
 
-#### Music App: 
+### Music App: 
 
 **Create** a React website that showcases your favourite artists songs/albums.
 
