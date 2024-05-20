@@ -1,4 +1,4 @@
-# React props & file structure Exercises
+# React props & file structure exercises
 
 Practice of React props & file structure
 
@@ -9,7 +9,7 @@ Practice of React props & file structure
 Two exercises:
 
 - Exercise #1: 1h
-- Exercise #2: 1h
+- Exercise #2: 30mins
 
 Note that times are approximate and you can decide how much time you spend on each exercise
 
