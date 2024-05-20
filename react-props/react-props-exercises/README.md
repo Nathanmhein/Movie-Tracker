@@ -9,9 +9,9 @@ Practice of React props & file structure
 Two exercises:
 
 - Exercise #1: 1h
-- Exercise #2: 30mins
+- Exercise #2: 1h
 
-Note that times are approximate and you can decide how much time you spend on each exercise
+Note that times are approximate and you can decide which exercise you'd like to take on. 
 
 ### Team
 
