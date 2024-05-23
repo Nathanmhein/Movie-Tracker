@@ -1,4 +1,4 @@
-# React props & file structure exercises
+# React props & file structure Exercises
 
 Practice of React props & file structure
 
