@@ -19,7 +19,7 @@ Same pairs of the previous day.
 
 ## Brief
 
-### Exercise #1 (30 mins)
+### Exercise #1
 
 Implementing navigation features in your music app.
 
@@ -34,7 +34,7 @@ Implementing navigation features in your music app.
 - User can mark favorite songs/albums.
 - User can access a contact section with the provided email.
 
-### Exercise #2 (1 hour)
+### Exercise #2
 
 Build a color management app using React Router.
 
