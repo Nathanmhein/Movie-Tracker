@@ -59,4 +59,4 @@ Make sure to create a new branch in your music repo and push your changes from t
 
 ### Exercise #2
 
-Make sure to create a new repository for your colours app and send your repo link to the Slack channel
+Make sure to create a new repository for your colours app and send your repo link to your cohort group

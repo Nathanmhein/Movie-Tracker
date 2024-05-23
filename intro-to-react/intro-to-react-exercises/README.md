@@ -49,4 +49,4 @@ Requirements are:
 
 ## Output
 
-Make sure to create a new repository for your music app and send your repo link to the Slack channel
+Make sure to create a new repository for your music app and send your repo link to your cohort group

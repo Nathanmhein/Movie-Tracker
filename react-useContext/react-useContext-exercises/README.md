@@ -37,7 +37,7 @@ Implement some state management with `useContext` on your music app
 
 ### Exercise #1
 
-Make sure to create a new repository for the refactored Todo App and send your repo link to the Slack channel
+Make sure to create a new repository for the refactored Todo App and send your repo link to your cohort group
 
 ### Exercise #2
 
