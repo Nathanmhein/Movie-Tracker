@@ -15,7 +15,7 @@ Note that times are approximate and you can decide which exercise you'd like to 
 
 ### Team
 
-Same pairs of the previous day.
+Same pairs of the day.
 
 ## Brief
 
