@@ -6,7 +6,7 @@ Practice of the basics of React, including using functional components, eventing
 
 ### Duration
 
-1.5h
+You have **1.5 hours** to make as much progress on this task as possible.
 
 Make sure to take breaks!
 
