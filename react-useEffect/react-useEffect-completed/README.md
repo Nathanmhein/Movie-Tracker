@@ -1,3 +1,3 @@
 # React useEffect (completed)
 
-This repo contains the complete code for the React useEffect lecture
+This folder contains the complete code for the React useEffect lecture

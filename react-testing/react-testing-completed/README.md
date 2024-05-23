@@ -1,3 +1,3 @@
 # React Testing (completed)
 
-This repo contains completed code from the React Testing lecture
+This folder contains completed code from the React Testing lecture
