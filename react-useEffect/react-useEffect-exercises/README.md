@@ -1,6 +1,6 @@
 # React useEffect Exercises
 
-Practice of the useEffect hook in React
+Practice of the `useEffect` hook in React
 
 ## Organisation
 
@@ -21,7 +21,7 @@ Same pairs of the previous day.
 
 ### Exercise #1
 
-Extend your music app to include useEffect
+Extend your music app to include `useEffect`
 
 Requirements are:
 
