@@ -37,7 +37,7 @@ Create comprehensive tests for your music app, using the same requirements above
 
 ### Exercise #1
 
-Make sure to create a new branch in your end to end repository and push your changes from the exercise
+Make sure to duplicate the end to end code into a new folder within the student repository to host your changes 
 
 ### Exercise #2
 
