@@ -8,7 +8,7 @@ const DarkMode = () => {
     }
 
     return (
-        <div role="figure" className={darkMode ? `Container Container-dark` : `Container Container-light`}>
+        <div className={darkMode ? `Container Container-dark` : `Container Container-light`}>
             <button onClick={toggleDarkMode}>Dark mode</button>
         </div>
     )
