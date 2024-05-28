@@ -3,7 +3,7 @@ import { screen, render, cleanup } from '@testing-library/react';
 import {DarkModeProvider} from '../../context/DarkMode';
 import userEvent from '@testing-library/user-event';
 
-import matchers from '@testing-library/jest-dom/matchers';
+import * as matchers from '@testing-library/jest-dom/matchers';
 expect.extend(matchers);
 
 import DarkMode from '.';

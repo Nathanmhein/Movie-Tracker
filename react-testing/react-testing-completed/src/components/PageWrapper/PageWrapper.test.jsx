@@ -4,7 +4,7 @@ import userEvent from '@testing-library/user-event';
 
 import { BrowserRouter } from 'react-router-dom';
 
-import matchers from '@testing-library/jest-dom/matchers';
+import * as matchers from '@testing-library/jest-dom/matchers';
 expect.extend(matchers);
 
 import PageWrapper from '.';
