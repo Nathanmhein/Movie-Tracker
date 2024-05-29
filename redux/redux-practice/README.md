@@ -10,16 +10,17 @@ A practice of Redux and Redux toolkit
 
 ### Team
 
-Same pairs of the previous day.
-
-### Setup
-
-**Use** your code from the morning or use the completed code within the `redux-toolkit-completed` folder for the exercise
+Individually
 
 ## Brief
 
-Continue refactoring the Todo App code from the morning by doing the following:
+**Navigate** to the `redux-practice-code` folder [here](./redux-practice-code/), where you'll find the exercise instructions in the `README.md` file along with the code for a React application.
 
+### Extension
+
+For this task, use your code from the morning or use the completed code within the `redux-toolkit-completed` folder - find it [here](../redux-toolkit-completed/)
+
+**Continue** refactoring the Todo App code from the morning by doing the following:
 - Refactor the reducer using Redux toolkit, so that it can handle 3 additional case scenarios:
   - Filtering the todos 
   - Updating the status 
