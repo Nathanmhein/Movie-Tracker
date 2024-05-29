@@ -21,7 +21,7 @@ Apply the following extensions. The first three extensions are the priority. The
 ### Extensions
 
 - Make the app more component driven by creating an isolated component for the form itself
-- Add a filtering functionality to sort tv shows by rating on the `SearchPage` - note that you might have to add another component for it too
+- Add a filtering functionality to sort TV shows by rating on the `SearchPage` - note that you might have to add another component for it too
 - Implement another context within the app 
 - Implement testing
 - Build your own film API backend and the following requests:
