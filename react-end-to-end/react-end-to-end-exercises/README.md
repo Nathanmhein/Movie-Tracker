@@ -16,7 +16,7 @@ Individually / pairs
 
 ## Brief
 
-Apply the following extensions. The first three extensions are the priority. The rest can be tackled ONLY if you are done with the first three extensions.
+Apply the following extensions. The first three extensions are the priority. The rest can be tackled **ONLY** if you are done with the first three extensions.
 
 ### Extensions
 
