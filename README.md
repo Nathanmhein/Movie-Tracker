@@ -18,3 +18,4 @@ To access a module, click on its corresponding link.
 | Redux | [Link](./redux/) |
 | React end to end project | [Link](./react-end-to-end/) |
 | React testing | [Link](./react-testing/) |
+| React end to end student project | [Link](./end-to-end-student-project) |
