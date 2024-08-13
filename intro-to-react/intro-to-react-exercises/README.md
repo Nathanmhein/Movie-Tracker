@@ -35,7 +35,7 @@ Requirements are:
   - When a user clicks the element, change something about it to indicate the user has 'liked' the song
   - When a user clicks again, the element should revert back to the 'unliked' view
   - Use state to track if a track has been liked or not
-  - You may create additional components to acheive this as you see fit
+  - You may create additional components to achieve this as you see fit
 
 - **Add** a controlled form
   - Create a controlled form into which users can provide data
