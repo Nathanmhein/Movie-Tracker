@@ -1,0 +1,4 @@
+### Recordings
+
+- [Intro to React](https://us02web.zoom.us/rec/play/9T6J5Y3PyRuTMWU0r6X6oKNtmJbqDNRtSyuy870eoeb4w4742nkkhSs8greEVZ-TyckH4-1OTT0gv0ij.KooxgMo2-TQe7WbG?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FrON5Z2ExmugvMgdFmKz9dUtROtRSKJ-mVR7O8kTgSWzTMr52Y_l6tyLAVeAB8uzL.rTAnFrgKrsQ1shiY)
+- [Props & File Structure](https://us02web.zoom.us/rec/play/9T6J5Y3PyRuTMWU0r6X6oKNtmJbqDNRtSyuy870eoeb4w4742nkkhSs8greEVZ-TyckH4-1OTT0gv0ij.KooxgMo2-TQe7WbG?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FrON5Z2ExmugvMgdFmKz9dUtROtRSKJ-mVR7O8kTgSWzTMr52Y_l6tyLAVeAB8uzL.rTAnFrgKrsQ1shiY)
