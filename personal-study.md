@@ -1,3 +1,7 @@
+### List of React resources
+
+More resources [here](https://github.com/enaqx/awesome-react) 
+
 ### React Bootstrap
 
 - [React Bootstrap](https://react-bootstrap.netlify.app/) 
