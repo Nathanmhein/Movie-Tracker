@@ -2,9 +2,10 @@
 
 More resources [here](https://github.com/enaqx/awesome-react) 
 
-### React Bootstrap
+### Other
 
-- [React Bootstrap](https://react-bootstrap.netlify.app/) 
+- [React Bootstrap](https://react-bootstrap.netlify.app/)
+- [Building a CRUD React app](https://medium.com/@bhairabpatra.iitd/crud-create-read-update-delete-application-in-react-566bf229aaee)
 
 ### React games & challenges
 
