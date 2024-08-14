@@ -19,29 +19,31 @@
 
 **Thursday** :house_with_garden:
 
-- AM: **Personal Study** 📚🎧☕
-- PM: SED Debug Assignment 🖥
+- AM: End to end React project + Deployment 🐘
+- PM: **Personal Study** 📚🎧☕
   
 **Friday** :house_with_garden:
 
-- State management 🧑‍💼
+- AM: SED Debug Assignment 🖥
+- PM: **Personal Study** 📚🎧☕
 
 ### Week 2 (w/b 19th August)
 
 **Monday** :house_with_garden:
 
-- AM: SED Knowledge Check 🖥
-- AM + PM: End to end React project + Deployment 🐘
-
+- AM: State management 🧑‍💼
+- PM: **Personal Study** 📚🎧☕ + 121s with Trainer
+  
 **Tuesday** :house_with_garden:
 
-- React testing ✅
+- AM: SED Knowledge Check 🖥
+- AM + PM: React testing ✅
   
 **Wednesday** :house_with_garden:
 
 - End to End Student Project - Day I 👩🏻‍💻📓✍🏻💡
 
-**Thursday** :house_with_garden:
+**Thursday** (IN PERSON)
 
 - End to End Student Project - Day II 👩🏻‍💻📓✍🏻💡
 
