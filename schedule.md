@@ -43,7 +43,7 @@
 
 - End to End Student Project - Day I 👩🏻‍💻📓✍🏻💡
 
-**Thursday** (IN PERSON)
+**Thursday** (**IN PERSON**)
 
 - End to End Student Project - Day II 👩🏻‍💻📓✍🏻💡
 
