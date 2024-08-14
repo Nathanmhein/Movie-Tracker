@@ -38,3 +38,9 @@ More resources [here](https://github.com/enaqx/awesome-react)
 - [Learn React Router video by Web Dev Simplified](https://www.youtube.com/watch?v=Ul3y1LXxzdU&ab_channel=WebDevSimplified)
 - [React Router guide by Web Dev Simplified](https://blog.webdevsimplified.com/2022-07/react-router/)
 - [Complete guide to React routing](https://hygraph.com/blog/routing-in-react)
+
+### React useContext
+
+- [React useContext docs](https://react.dev/reference/react/useContext)
+- [Example of React useContext](https://www.w3schools.com/react/showreact.asp?filename=demo2_react_context2)
+- [Mastering useContext](https://medium.com/zestgeek/mastering-reacts-usecontext-hook-simplifying-state-management-65894e6dc431)
