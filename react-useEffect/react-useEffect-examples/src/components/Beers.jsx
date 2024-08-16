@@ -1,14 +1,14 @@
 import { useState } from "react";
 
-const Beers = () => {
-    const [beers, setBeers] = useState([]);
+const DogBreeds = () => {
+    const [dogBreeds, setDogBreeds] = useState([]);
 
     return <>
-            <h2>Beers</h2>
-            { beers.map(b => <li>{b}</li>) }
+            <h2>Dog Breeds</h2>
+            { dogBreeds.map(d => <li>{d}</li>) }
            </>
 }
 
 
 
-export default Beers;
+export default DogBreeds;

@@ -1,4 +1,4 @@
-// import Beers from './components/Beers.jsx'
+// import DogBreeds from './components/DogBreeds.jsx'
 import Effects from './components/Effects.jsx'
 
 function App() {
