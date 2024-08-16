@@ -12,10 +12,10 @@ function ShopItem() {
   const [item, setItem] = useState({ images: {} });
 
   const fetchItem = async () => {
-    const fetchItem = await fetch(
+    const response = await fetch(
       `https://fortnite-api.com/v2/cosmetics/br/${id}`
     );
-    const item = await fetchItem.json();
+    const item = await response.json();
     setItem(item.data)
   };
 
