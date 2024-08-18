@@ -44,3 +44,19 @@ More resources [here](https://github.com/enaqx/awesome-react)
 - [React useContext docs](https://react.dev/reference/react/useContext)
 - [Example of React useContext](https://www.w3schools.com/react/showreact.asp?filename=demo2_react_context2)
 - [Mastering useContext](https://medium.com/zestgeek/mastering-reacts-usecontext-hook-simplifying-state-management-65894e6dc431)
+
+
+### React testing
+
+- [React testing library](https://testing-library.com/docs/react-testing-library/cheatsheet)
+- [Vitest mocking](https://vitest.dev/guide/mocking.html)
+- [React testing library resources](https://www.robinwieruch.de/react-testing-library/)
+- [How to test react components](https://www.freecodecamp.org/news/testing-react-hooks/)
+- [Difference between get, find, and query](https://levelup.gitconnected.com/the-difference-between-get-find-query-react-testing-library-bcd996ba3baa)
+- [React context testing](https://testing-library.com/docs/example-react-context/)
+
+  ### Redux
+
+- [Redux documentation](https://redux.js.org/)
+- [Redux diagram - at bottom of page](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
+- [Redux getting started docs](https://redux.js.org/introduction/getting-started)
