@@ -6,4 +6,4 @@
 - [React Navigation](https://us02web.zoom.us/rec/share/1RmBEObIR7T1MknYTzvDeiSA48IGNAYPUYreLJljm-iGHsEY0WufdaZzEHGra0E.W8xNDgoV_Ps62UJP)
 - [React useContext](https://us02web.zoom.us/rec/share/fbEvUdaGcFWDtEp13Ze24u2DzBP7ARsN-lQYP687-j0S3J5Pc-DiW6V925624ktz.EG5q9H-y_x8yQOU-)
 - [React End to End Project - part I](https://us02web.zoom.us/rec/share/Zu9U57656o0aVlfrpIIadPYuJCP7_sR14Vnc8vLSAQtt0sSE1IROQwowiQmSGoty.bHzc-VqPPXUzzzNr)
-- [React End to End Project - part II](https://us02web.zoom.us/rec/share/tQtSPTpZ5QOxA1kRKnqMTuFQPtcVC1dG-o5vwgOLd712aVJ0CIDGDiL3eBELdTa2.N1CE_4H9kNNSzxPg)
+- [React End to End Project - part II + deployment](https://us02web.zoom.us/rec/share/tQtSPTpZ5QOxA1kRKnqMTuFQPtcVC1dG-o5vwgOLd712aVJ0CIDGDiL3eBELdTa2.N1CE_4H9kNNSzxPg)
