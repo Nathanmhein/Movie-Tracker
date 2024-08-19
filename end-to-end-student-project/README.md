@@ -58,7 +58,7 @@ This task is focused **on the frontend only**; you don't need to implement any k
 
 ### Deliverables
 
-- A completed MVP **by 4pm** on the second day of the project 
+- A completed MVP **by 5pm** on the second day of the project - ideally, you want to have your MVP done at 4 and prep for the presentation at 5pm! 
 - **OPTIONAL:** A **deployed link** of your React application
 
 **HAVE SOME FUN!** 🕺 💃
