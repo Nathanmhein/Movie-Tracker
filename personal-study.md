@@ -55,7 +55,7 @@ More resources [here](https://github.com/enaqx/awesome-react)
 - [Difference between get, find, and query](https://levelup.gitconnected.com/the-difference-between-get-find-query-react-testing-library-bcd996ba3baa)
 - [React context testing](https://testing-library.com/docs/example-react-context/)
 
-  ### Redux
+### Redux
 
 - [Redux documentation](https://redux.js.org/)
 - [Redux diagram - at bottom of page](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
