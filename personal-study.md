@@ -54,6 +54,7 @@ More resources [here](https://github.com/enaqx/awesome-react)
 - [How to test react components](https://www.freecodecamp.org/news/testing-react-hooks/)
 - [Difference between get, find, and query](https://levelup.gitconnected.com/the-difference-between-get-find-query-react-testing-library-bcd996ba3baa)
 - [React context testing](https://testing-library.com/docs/example-react-context/)
+- [Aria roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
 
 ### Redux
 
