@@ -9,3 +9,4 @@
 - [React End to End Project - part II + deployment](https://us02web.zoom.us/rec/share/tQtSPTpZ5QOxA1kRKnqMTuFQPtcVC1dG-o5vwgOLd712aVJ0CIDGDiL3eBELdTa2.N1CE_4H9kNNSzxPg)
 - [Redux](https://us02web.zoom.us/rec/share/mZ7s5HjDbVCnAs2zB7hIF7Hwf0-dXCkr4b1S5hBO0ZUTMethpFi2JDnLUB7Pm9YB.vsQdnk-3ZLle78I-)
 - [Redux toolkit](https://us02web.zoom.us/rec/share/0G2aKuIFJK4p2RPwlnrU7MBiaisV4WibtDnlH2h7iBGycvv_qH8Bm5AjsB7ESaIW.WgP6ly0ePQuIYowW)
+- [React testing](https://us02web.zoom.us/rec/share/O_aypZheoJOngsjxz1V5dhuqTHqpGF6dxY7CXqIElab-1cTWxjk_CHLit6YX7MXc.PUVXStG8XVkxF5O4) 
