@@ -19,7 +19,7 @@ The goal of this hackathon is to build a **React App** using the concepts you ha
 - **React state and hooks** (useEffect, useState)
 - **React state management** (useContext, Redux)
 - **React navigation**
-- **React file structure using propse**
+- **React file structure using props**
 - **UX methodologies**
 - **HTML/CSS** (for the styling)
 
