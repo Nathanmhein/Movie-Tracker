@@ -1,6 +1,6 @@
 ### Recordings
 
-- [Intro to React](https://us02web.zoom.us/rec/play/9T6J5Y3PyRuTMWU0r6X6oKNtmJbqDNRtSyuy870eoeb4w4742nkkhSs8greEVZ-TyckH4-1OTT0gv0ij.KooxgMo2-TQe7WbG?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FrON5Z2ExmugvMgdFmKz9dUtROtRSKJ-mVR7O8kTgSWzTMr52Y_l6tyLAVeAB8uzL.rTAnFrgKrsQ1shiY)
+- [Intro to React](https://us02web.zoom.us/rec/play/9d2z9hpd4Ub20fRjGAK8rzLNWH8N96bKJxBvpiMOvxT4W7rmsqnc51_eyOk_HfU3v2gTQgL5bplbg_xH.GGeLOa96uhwjPdvg?canPlayFromShare=true&from=my_recording&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2F5A-ATzdvNE0Ip7B4by4kIC6F4XPQCkk3CdCvDF1An2PWx75sWT5Kj0e40eqyqkPN.Mcnrq6GZVAgBFbIO)
 - [Props & File Structure](https://us02web.zoom.us/rec/play/9T6J5Y3PyRuTMWU0r6X6oKNtmJbqDNRtSyuy870eoeb4w4742nkkhSs8greEVZ-TyckH4-1OTT0gv0ij.KooxgMo2-TQe7WbG?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FrON5Z2ExmugvMgdFmKz9dUtROtRSKJ-mVR7O8kTgSWzTMr52Y_l6tyLAVeAB8uzL.rTAnFrgKrsQ1shiY)
 - [React useEffect](https://us02web.zoom.us/rec/share/aT9bMESJA57Q_YMZu8n-6-lSP-5QKrDXUxfqwBCAsaaZbX8aWhnOYoFS4hZSsmY.siHZhecraWcR-XvD) 
 - [React Navigation](https://us02web.zoom.us/rec/share/1RmBEObIR7T1MknYTzvDeiSA48IGNAYPUYreLJljm-iGHsEY0WufdaZzEHGra0E.W8xNDgoV_Ps62UJP)
