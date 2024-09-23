@@ -45,6 +45,11 @@ More resources [here](https://github.com/enaqx/awesome-react)
 - [Example of React useContext](https://www.w3schools.com/react/showreact.asp?filename=demo2_react_context2)
 - [Mastering useContext](https://medium.com/zestgeek/mastering-reacts-usecontext-hook-simplifying-state-management-65894e6dc431)
 
+### Redux
+
+- [Redux documentation](https://redux.js.org/)
+- [Redux diagram - at bottom of page](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
+- [Redux getting started docs](https://redux.js.org/introduction/getting-started)
 
 ### React testing
 
@@ -55,9 +60,3 @@ More resources [here](https://github.com/enaqx/awesome-react)
 - [Difference between get, find, and query](https://levelup.gitconnected.com/the-difference-between-get-find-query-react-testing-library-bcd996ba3baa)
 - [React context testing](https://testing-library.com/docs/example-react-context/)
 - [Aria roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
-
-### Redux
-
-- [Redux documentation](https://redux.js.org/)
-- [Redux diagram - at bottom of page](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
-- [Redux getting started docs](https://redux.js.org/introduction/getting-started)
