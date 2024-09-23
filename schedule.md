@@ -43,7 +43,7 @@
 
 - End to End Student Project - Day I 👩🏻‍💻📓✍🏻💡
 
-**Thursday** (**IN PERSON**)
+**Thursday** :house_with_garden:
 
 - End to End Student Project - Day II 👩🏻‍💻📓✍🏻💡
 
