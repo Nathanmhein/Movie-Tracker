@@ -1,6 +1,6 @@
 # Deep Dive schedule 📅
 
-### Week 1 (w/b 12th August)
+### Week 1
 
 **Monday** :house_with_garden:
 
@@ -27,12 +27,12 @@
 - AM: SED Debug Assignment 🖥
 - PM: **Personal Study** 📚🎧☕
 
-### Week 2 (w/b 19th August)
+### Week 2
 
 **Monday** :house_with_garden:
 
 - AM: State management 🧑‍💼
-- PM: **Personal Study** 📚🎧☕ + 121s with Trainer
+- PM: **Personal Study** 📚🎧☕ + 121s with Trainer for debug feedback
   
 **Tuesday** :house_with_garden:
 
