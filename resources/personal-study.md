@@ -2,12 +2,21 @@
 
 More resources [here](https://github.com/enaqx/awesome-react) 
 
+### Build a Todo App (code along notes)
+
+- [Todo App (code along notes)](https://github.com/LaFosseAcademy/SE-student-repos/blob/taster-SE-codealong-notes/resources/todoapp-codealong.md)
+
+### How to build a component diagram
+
+- If you google `component diagram react` and look at the results in the `images` tab, you’ll see a lot of examples on how they look like. The following [resource](https://dev.to/plazarev/collection-of-diagrams-to-use-in-your-react-app-for-effective-data-visualization-4o7n) gives you several tools that can be used to build a diagram - however, it can be done with just paper/pen or on Figma
+
 ### Other
 
 - [React Bootstrap](https://react-bootstrap.netlify.app/)
 - [Building a CRUD React app](https://medium.com/@bhairabpatra.iitd/crud-create-read-update-delete-application-in-react-566bf229aaee)
 
 ### React games & challenges
+
 
 - [React challenges](https://reactchallenges.live/)
 - [React challenges - part II](https://dev.to/frontendengineer/10-reactjs-coding-exercises-with-codepen-exercise-and-solution--22k7)
