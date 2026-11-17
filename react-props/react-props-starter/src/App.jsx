@@ -1,24 +1,22 @@
 import React, {useState} from 'react';
 import './App.css';
+import { TodoForm,TodoList } from './components';
 
 function App() {
-  const [inputText, setInputText] = useState('');
-
-  function handleInput(e) {
-    setInputText(e.target.value);
-  }
-
-  function handleSubmit(e) {
-    e.preventDefault();
-  }
+  const [inputText, setInputText] = useState(''); 
+  const [todos,setTodos] = useState([]);
 
   return (
     <div>
       <header>Sarah's Todo List</header>
-      <form onSubmit={handleSubmit}>
-        <input type="text" className="todo-input" onChange={handleInput} />
-	<button type="submit" className="todo-button">Add</button>
-      </form>
+      <TodoForm 
+        setInputText = {setInputText} 
+        todos={todos} 
+        setTodos={setTodos} 
+        inputText={inputText}/>
+      <TodoList 
+        todos={todos} 
+        setTodos={setTodos}/>
     </div>
   );
 }
