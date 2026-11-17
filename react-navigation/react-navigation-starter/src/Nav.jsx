@@ -1,14 +1,20 @@
+import { Link, NavLink, Outlet } from "react-router-dom";
+
 function Nav() {
   return (
-    <nav>
+    <>
+      <nav>
       <h1>Logo</h1>
       <ul className="nav-links">
-        <li>Home</li>
-        <li>About</li>
-        <li>Shop</li>
+        <NavLink to="/">Home</NavLink>
+        <NavLink to="/about">About</NavLink>
+        <NavLink to="/shop">Shop</NavLink>
       </ul>
     </nav>
-  )
+    <Outlet/>
+    </>
+    
+  );
 }
 
-export default Nav
+export default Nav;
