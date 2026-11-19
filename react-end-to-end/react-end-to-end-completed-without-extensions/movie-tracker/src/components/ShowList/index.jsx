@@ -1,7 +1,9 @@
 import React from 'react';
 import ShowCard from '../ShowCard';
+import { useShow } from '../../contexts';
 
-export default function ShowList({ showData }) {
+export default function ShowList() {
+    const {showData} = useShow();
     return (
         <>
             {showData.map(s => (
